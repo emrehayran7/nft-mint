@@ -1,12 +1,12 @@
 {
-  "name": "Ducky City",
+  "name": "Ducky ",
   "description": "deneme",
   "website": "",
   "twitter": "",
   "discord": "",
   "rpc": "https://sei-rpc.polkachu.com/",
   "network": "pacific-1",
-  "collection_address": "sei1yva9tjq2smsx3uxae999l49j6clyadr70a8wrg658f3gm8xw38us8q0xsl",
+  "collection_address": "sei1n9lccwue6g3fu2hdmn7vlp4gpkrjx959mg4a2j0tg70a4crujg3sxdeve0",
   "nft_name_type": "default",
   "groups": [
     {
