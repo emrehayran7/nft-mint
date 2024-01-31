@@ -1,12 +1,12 @@
 {
-  "name": "FirstNftCollection",
+  "name": "Ducky City",
   "description": "deneme",
   "website": "",
   "twitter": "",
   "discord": "",
-  "rpc": "https://rpc.atlantic-2.seinetwork.io/",
-  "network": "atlantic-2",
-  "collection_address": "sei1mf9k2vl267xsf2j2njha2mrpndwey8akldlt9l5w5yarqyhxx6rs3m06kw",
+  "rpc": "https://sei-rpc.polkachu.com/",
+  "network": "pacific-1",
+  "collection_address": "sei1yva9tjq2smsx3uxae999l49j6clyadr70a8wrg658f3gm8xw38us8q0xsl",
   "nft_name_type": "default",
   "groups": [
     {
